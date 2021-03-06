@@ -23,7 +23,7 @@ This event is open to data scientists, enthusiasts and hackers of all levels, fr
 *All times are Pacific Daylight Time (PDT)*
 
 * **Saturday**: 10:00 AM - 10:00 PM
-* **Sunday**: 8:00 AM - 4:00 PM
+* **Sunday**: 8:00 AM - 4:30 PM
 
 **Where**
 

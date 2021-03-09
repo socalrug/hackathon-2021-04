@@ -32,7 +32,7 @@ This is a 100% Online/Virtual event, using Zoom and Slack. Event links will be p
 **Registration**
 
 * Cost: $15
-* Register through [EventBright]()
+* Register through [EventBright](https://www.eventbrite.com/e/ocrug-virtual-data-science-hackathon-tickets-144355327671)
 
 ## Schedule
 

@@ -62,7 +62,7 @@ This is a 100% Online/Virtual event, using Zoom and Slack. Event links will be p
 
 ## Rules
 
-* All participants must [register for the event]() and have a valid ticket to attend.
+* All participants must [register for the event](https://www.eventbrite.com/e/ocrug-virtual-data-science-hackathon-tickets-144355327671) and have a valid ticket to attend.
 * All participants must abide by the [OCRUG Code of Conduct](https://github.com/ocrug/hackathon-2021-04/blob/master/code-of-conduct.md), including the [R Consortium and the R Community Code of Conduct](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct).
 * Please immediately report any Code of Conduct violations to the event organizers.
 * All participant must check-in by 01:00 PM on Saturday and attend the Introduction session to be eligible to participate and for award consideration.

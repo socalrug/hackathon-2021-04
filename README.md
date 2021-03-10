@@ -38,26 +38,29 @@ This is a 100% Online/Virtual event, using Zoom and Slack. Event links will be p
 
 ### Saturday
 
-| Time | Event |
-| :--  | :--   |
-| 10:00 AM - 11:00 AM  | Tutorial - Basic Data Analysis in R with the tidyverse [Zoom]
-| 11:00 AM - 12:00 AM  | Tutorial - Basic Data Visualization in R with ggplot2 [Zoom]
-| 12:00 AM -  1:00 PM  | Break - Lunch [On Your Own]
-|  1:00 PM -  2:00 PM  | Introduction, Data Set Review, Teams Assemble [Zoom]
-|  2:00 PM -  7:00 PM  | Individual Team Working Session [Zoom, Slack]
-|  7:00 PM -  8:00 PM  | Evening Data Challenge [Zoom]
-|  8:00 PM - 10:00 PM  | Individual Team Working Session [Zoom, Slack]
+* *Saturday morning tutorials are optional*
+* *All participants are required to attend the 1:00 PM Introduction session*
+
+| Time                 | Event                                                  | Location                   |
+| :--                  | :--                                                    | :--                        |
+| 10:00 AM - 11:00 AM  | Tutorial - Basic Data Analysis in R with the tidyverse | Zoom Main Room             |
+| 11:00 AM - 12:00 AM  | Tutorial - Basic Data Visualization in R with ggplot2  | Zoom Main Room             |
+| 12:00 AM -  1:00 PM  | Break - Lunch                                          | On Your Own                |
+|  1:00 PM -  2:00 PM  | Introduction, Data Set Review, Teams Assemble          | Zoom Main Room             |
+|  2:00 PM -  7:00 PM  | Individual Teams Working Session                       | Zoom Breakout Rooms, Slack |
+|  7:00 PM -  8:00 PM  | Evening Data Challenge                                 | Zoom Main Room             |
+|  8:00 PM - 10:00 PM  | Individual Teams Working Session                       | Zoom Breakout Rooms, Slack |
 
 ### Sunday
 
-| Time | Event |
-| :--- | :--   |
-|  8:00 AM -  1:00 PM  | Individual Team Working Session [Zoom, Slack]
-|  1:00 PM             | Presentations Due
-|  1:00 PM -  2:00 PM  | Break - Lunch [On Your Own]
-|  2:00 PM -  3:30 PM  | Team Presentations
-|  3:30 PM -  4:00 PM  | Award Voting
-|  4:00 PM -  4:30 PM  | Award Presentation & Wrap-up
+| Time                 | Event                            | Location                    |
+| :---                 | :--                              | :--                         |
+|  8:00 AM -  1:00 PM  | Individual Teams Working Session | Zoom Breakout Rooms, Slack  |
+|  1:00 PM             | Presentations Due                |                             |
+|  1:00 PM -  2:00 PM  | Break - Lunch                    | On Your Own                 |
+|  2:00 PM -  3:30 PM  | Team Presentations               | Zoom Presentation Rooms     |
+|  3:30 PM -  4:00 PM  | Award Voting, Break              | On Your Own                 |
+|  4:00 PM -  4:30 PM  | Award Presentation & Wrap-up     | Zoom Main Room              |
 
 
 ## Rules

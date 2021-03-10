@@ -117,9 +117,9 @@ See the [presentation guidelines](https://github.com/ocrug/hackathon-2021-04/blo
 
 Below is a list of the awards and prizes:
 
-* Best Insight ($XX Amazon Gift Card)
-* Best Visualization ($XX Amazon Gift Card)
-* Best Presentation ($XX Amazon Gift Card)
+* Best Insight (Amazon Gift Card)
+* Best Visualization (Amazon Gift Card)
+* Best Presentation (Amazon Gift Card)
 
 
 ## Saturday Evening Challenge Event

@@ -3,9 +3,9 @@
 | Amy Chen         | amy17519@gmail.com         | Saturday 14:00 - 16:30 | Yes | Any time |
 | Arlo Randall     | arlorandall@gmail.com      | | | Interested but will need to wait on picking a time |
 | Arvind Sathi     | asathi@uci.edu             | Saturday 16:30 - 19:00 | Yes | Any time |
-| Bella Feng       | bellafeng@gmail.com        | Saturday 14:00 - 16:30 | No  | Saturday Afternoon |
+| Bella Feng       | bellafeng@gmail.com        | Saturday 14:30 - 16:30 | Yes | Saturday Afternoon |
 | Brent Werness    | LinkedIn                   | | | |
-| Chris Pounds     | chris_pounds@edwards.com   | Saturday 14:00 - 16:00 | No  | Saturday 13:00-16:00 |
+| Chris Pounds     | chris_pounds@edwards.com   | Saturday 14:00 - 16:00 Sunday 08:00 - 10:00 | Yes | Saturday 13:00-16:00 |
 | Daniele Micci    | dmicci@google.com          | Saturday 16:30 - 19:00 | No  | Saturday 2PM - 7PM |
 | Dwight Wynne     | dpwynne@gmail.com          | Sunday 10:00 - 11:00 | No  | Sunday morning, 10:00-11:00 |
 | Emil Hvitfeldt   | Emil.h.hvitfeldt@gmail.com | | | Busy |

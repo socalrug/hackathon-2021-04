@@ -2,7 +2,7 @@
 |------------------|----------------------------|-----------|-----------|---------|
 | Amy Chen         | amy17519@gmail.com         | Saturday 14:00 - 16:30 | No  | Any time |
 | Arlo Randall     | arlorandall@gmail.com      | | | Interested but will need to wait on picking a time |
-| Arvind Sathi     | asathi@uci.edu             | Saturday 16:30 - 19:00 | No  | Any time |
+| Arvind Sathi     | asathi@uci.edu             | Saturday 16:30 - 19:00 | Yes | Any time |
 | Bella Feng       | bellafeng@gmail.com        | Saturday 14:00 - 16:30 | No  | Saturday Afternoon |
 | Brent Werness    | LinkedIn                   | | | |
 | Chris Pounds     | chris_pounds@edwards.com   | Saturday 14:00 - 16:00 | No  | Saturday 13:00-16:00 |

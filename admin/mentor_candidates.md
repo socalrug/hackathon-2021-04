@@ -1,6 +1,6 @@
 | Name             | Address                    | Time slot | Confirmed | Comment |
 |------------------|----------------------------|-----------|-----------|---------|
-| Amy Chen         | amy17519@gmail.com         | Saturday 14:00 - 16:30 | No  | Any time |
+| Amy Chen         | amy17519@gmail.com         | Saturday 14:00 - 16:30 | Yes | Any time |
 | Arlo Randall     | arlorandall@gmail.com      | | | Interested but will need to wait on picking a time |
 | Arvind Sathi     | asathi@uci.edu             | Saturday 16:30 - 19:00 | Yes | Any time |
 | Bella Feng       | bellafeng@gmail.com        | Saturday 14:00 - 16:30 | No  | Saturday Afternoon |
@@ -22,4 +22,4 @@
 | Ryan Garner      | LinkedIn                   | | | Maybe |
 | Sep Dadsetan     | phdjsep@gmail.com          | | | Busy |
 | Wanyi Huang      | wanyihuang24@gmail.com     | Saturday 20:00 - 22:00 | Yes | She is interested |
-| Zhi Yang         | zyang895@gmail.com         | Sunday 09:00 - 12:00 | No  | Sunday morning |
+| Zhi Yang         | zyang895@gmail.com         | Sunday 09:00 - 12:00 | Yes | Sunday morning |

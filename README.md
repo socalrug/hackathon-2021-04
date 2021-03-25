@@ -102,6 +102,20 @@ Slack channel: [https://socalrug.slack.com](https://socalrug.slack.com)
 
 The channel for the hackathon is **hackathon-2021-04**
 
+### Team Slack Channels
+
+Each team will have a slack channel so that they can communicate and share files. You will also be able on Zoom. The team rooms are:
+* 01_team-hackathon
+* 02_team-hackathon
+* 03_team-hackathon
+* 04_team-hackathon
+* 05_team-hackathon
+* 06_team-hackathon
+* 07_team-hackathon
+* 08_team-hackathon
+* 09_team-hackathon
+* 10_team-hackathon
+
 ## Twitter
 
 Please follow us on twitter, [oc_rug](https://tinyurl.com/ocrug-twitter), and also tweet about the event with the hash tag #OCRUG

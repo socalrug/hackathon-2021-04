@@ -23,6 +23,3 @@
 | Sep Dadsetan     | phdjsep@gmail.com          | | | Busy |
 | Wanyi Huang      | wanyihuang24@gmail.com     | Saturday 20:00 - 22:00 | Yes | She is interested |
 | Zhi Yang         | zyang895@gmail.com         | Sunday 09:00 - 12:00 | No  | Sunday morning |
-|                  |                            | | | |
-| Crystal Yang     | Crystalyang1210@gmail.com  | | | She can help in the main room on saturday or sunday |
-| Youlim Huh       | careyhuh@gmail.com         | | | She can help out any way that we need her too |

@@ -12,7 +12,9 @@ Volunteers will virtually assist participants throughout the event, performing t
 
 Below is a schedule of specific times and tasks for the helpers:
 
-Date       | Time                | Person              | Primary Tasks |
-| :--        | :--                 | :--                 | :-- |
+| Date       | Time                | Person              | Contact                   | Primary Tasks |
+| :--        | :--                 | :--                 | :--                       | :-- |
+| 2021-03-10 | 20:00 - 22:00       | Carey Huh           | careyhuh@gmail.com        | Lobby |
+|            |                     | Crystal Yang        | Crystalyang1210@gmail.com | Lobby |
 
 

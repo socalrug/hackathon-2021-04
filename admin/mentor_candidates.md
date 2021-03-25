@@ -2,7 +2,7 @@
 |------------------|----------------------------|-----------|-----------|---------|
 | Amy Chen         | amy17519@gmail.com         | Saturday 14:00 - 16:30 | No  | Any time |
 | Arlo Randall     | arlorandall@gmail.com      | | | Interested but will need to wait on picking a time |
-| Arvind Sathi     | asathi@uci.edu             | Saturday 16:30 - 19:00 | | Any time |
+| Arvind Sathi     | asathi@uci.edu             | Saturday 16:30 - 19:00 | No  | Any time |
 | Bella Feng       | bellafeng@gmail.com        | Saturday 14:00 - 16:30 | No  | Saturday Afternoon |
 | Brent Werness    | LinkedIn                   | | | |
 | Chris Pounds     | chris_pounds@edwards.com   | Saturday 14:00 - 16:00 | No  | Saturday 13:00-16:00 |
@@ -21,7 +21,7 @@
 | Olga Korosteleva | Olga.Korosteleva@csulb.edu | Saturday 17:30 - 19:00 | No  | Saturday 17:30-19:30 - another option is Saturday 14:00-15:00 |
 | Ryan Garner      | LinkedIn                   | | | Maybe |
 | Sep Dadsetan     | phdjsep@gmail.com          | | | Busy |
-| Wanyi Huang      | LinkedIn                   | Saturday 20:00 - 22:00 | No  | She is interested |
+| Wanyi Huang      | wanyihuang24@gmail.com     | Saturday 20:00 - 22:00 | Yes | She is interested |
 | Zhi Yang         | zyang895@gmail.com         | Sunday 09:00 - 12:00 | No  | Sunday morning |
 |                  |                            | | | |
 | Crystal Yang     | Crystalyang1210@gmail.com  | | | She can help in the main room on saturday or sunday |

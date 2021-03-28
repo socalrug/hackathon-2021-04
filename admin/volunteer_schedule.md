@@ -17,7 +17,7 @@ Below is a schedule of specific times and tasks for the helpers:
 | 2021-03-10 | 14:00 - 16:00       | Crystal Yang        | Crystalyang1210@gmail.com | Lobby |
 | 2021-03-10 | 16:00 - 18:00       |                     |                           | Lobby |
 | 2021-03-10 | 20:00 - 22:00       | Carey Huh           | careyhuh@gmail.com        | Lobby |
-| 2021-03-11 | 09:00 - 11:00       | Takako Suzuki       |                           | Lobby |
+| 2021-03-11 | 09:00 - 11:00       | Takako Suzuki       | Suzuki-68@outlook.com     | Lobby |
 | 2021-03-11 | 11:00 - 13:00       | Crystal Yang        | Crystalyang1210@gmail.com | Lobby | 
 
 

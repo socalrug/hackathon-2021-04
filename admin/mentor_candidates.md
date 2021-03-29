@@ -12,7 +12,7 @@
 | George Vega Yon  | g.vegayon@gmail.com        | | | Busy |
 | Gloria Gong      | LinkedIn                   | | | Busy |
 | Jing Zhou        | LinkedIn                   | | | Busy |
-| Julien Brun      | brun.julien@gmail.com      | Saturday 20:00 - 22:00 | No  | Evening or early morning |
+| Julien Brun      | brun.julien@gmail.com      | Saturday 20:00 - 22:00 | Yes | Evening or early morning |
 | Justin Popat     | Linkedin                   | | | looking for a link to the event. I sent it |
 | Leondra James    | Leondra.James@gmail.com    | | | She will get back to me 2 April |
 | Licy Wang        | LinkedIn                   | | | |

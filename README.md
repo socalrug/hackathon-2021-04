@@ -68,7 +68,7 @@ This is a 100% Online/Virtual event, using Zoom and Slack. Event links will be p
 * All participants must [register for the event](https://www.eventbrite.com/e/ocrug-virtual-data-science-hackathon-tickets-144355327671) and have a valid ticket to attend.
 * All participants must abide by the [OCRUG Code of Conduct](https://github.com/ocrug/hackathon-2021-04/blob/master/code-of-conduct.md), including the [R Consortium and the R Community Code of Conduct](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct).
 * Please immediately report any Code of Conduct violations to the event organizers.
-* All participant must check-in by 01:00 PM on Saturday and attend the Introduction session to be eligible to participate and for award consideration.
+* All participant must check-in (log into the Zoom meeting) by 01:00 PM on Saturday and attend the Introduction session to be eligible to participate and for award consideration.
 * Though this is an R focused event, participants are free to use any programming language or tool for their work.
 * Participants are free to work on their projects as they'd like on their own schedules, though we highly encourage participants to attend all working sessions to maximize team and group interactions.
 * We ask that the final submissions from the teams are a result of *work performed during the event*.  Please do not use any previous work you or others may have produced as part of team submissions.
@@ -122,10 +122,10 @@ Please follow us on twitter, [oc_rug](https://tinyurl.com/ocrug-twitter), and al
 
 ## Teams
 
-* All participants will work on teams between 2 and 5 people.
-* Participants are free to form their own teams prior to the event.
-* We will assist in team formation prior to the event for any participants that do not already have a team.
-* Teams will select a *team name*.
+* All participants will work on teams, with approximated 5 people each.
+* Participants will be randomly assigned into teams during the Introduction session.
+* Teams and individuals are free to work when and how they'd like.  However, we recommend using the provided Zoom break-out rooms throughout the event so teams can work together more easily.
+* Teams will select a *team name* to use throughout the hackathon.
 * *Assisting others within and between teams is highly encouraged.*
 
 ## Award Categories and Prizes
@@ -141,7 +141,7 @@ Below is a list of the awards and prizes:
 
 ## Saturday Evening Challenge Event
 
-On Saturday evening, we will have an hour long data challenge event, to take a break from the main hackathon work.  This will be an opportunity to interact with other participants outside of your team, practice your data hacking skills on a new data set, a win prizes.
+On Saturday evening, we will have an hour long data challenge event, to take a break from the main hackathon work.  This will be an opportunity to interact with other participants outside of your team, practice your data hacking skills on a new data set, and win prizes.
 
 ## Resources
 

@@ -11,7 +11,7 @@ To make the most of your time, there are a number of things that you should do t
 1. Carefully read the [README](https://github.com/ocrug/hackathon-2021-04/blob/main/README.md) file for the event. Please note the schedule of events and their times. This README may be updated in the days leading up to the event, so be sure to check back the day before the event.
 1. OCRUG is dedicated to providing a harassment-free environment. Please read and abide by the [OCRUG Code of Conduct](https://github.com/ocrug/hackathon-2021-04/blob/main/code-of-conduct.md).
 1. We will be using [Slack](https://slack.com/) during the event for asynchronous communication and general announcements.
-    1. If you are not on the [OCRUG Slack channel](https://ocrug.slack.com) please [sign-up](https://ocrug-slack.herokuapp.com/). 
+    1. If you are not on the [OCRUG Slack channel](https://socalrug.slack.com/) please [sign-up](https://socalrug.herokuapp.com/). 
     1. Join the **#hackathon-2021-04** channel in Slack. This is a great place to ask for help while getting set-up for the hackathon.
 1. Information for the hackathon is kept in the [hackathon-2021-04](https://github.com/ocrug/hackathon-2021-04) GitHub repository.  If you are unfamiliar with Git, you can download all the files in the repository by:
     1. Visit the [main repository page](https://github.com/ocrug/hackathon-2021-04).

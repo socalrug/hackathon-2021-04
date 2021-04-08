@@ -139,6 +139,14 @@ Below is a list of the awards and prizes:
 * Best Presentation (Amazon Gift Card)
 
 
+## Saturday Morning Tutorials
+
+Two short tutorials will be given on Saturday morning covering essential data analysis topics using R.  The tutorials as aimed at R users who have already have some familiarity with the language, but could also be a useful reference for R beginners or users of other programming languages.  
+
+* Tutorial 1: Introduction to Tidy Data & Data Manipulation with the tidyverse [Slides](https://github.com/ocrug/hackathon-2021-04/blob/main/tutorials/ocrug_hackathon_04-2021_tutorial1_dplyr.pdf)
+* Tutorial 2: Introduction to Data Visualization with ggplot2 [Slides](https://github.com/ocrug/hackathon-2021-04/blob/main/tutorials/ocrug_hackathon_04-2021_tutorial2_ggplot2.pdf)
+
+
 ## Saturday Evening Challenge Event
 
 On Saturday evening, we will have an hour long data challenge event, to take a break from the main hackathon work.  This will be an opportunity to interact with other participants outside of your team, practice your data hacking skills on a new data set, and win prizes.

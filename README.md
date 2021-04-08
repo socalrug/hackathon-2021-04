@@ -151,6 +151,24 @@ Two short tutorials will be given on Saturday morning covering essential data an
 
 On Saturday evening, we will have an hour long data challenge event, to take a break from the main hackathon work.  This will be an opportunity to interact with other participants outside of your team, practice your data hacking skills on a new data set, and win prizes.
 
+
+## Presentation Rules
+
+Each team will prepare a short presentation and slide deck describing their work during the hackathon.  The presentation and slides should focus on the main findings/insights the group found durng their work, and will be used for determining the hackathon awards.
+
+**Rules**
+
+* All presentations must be 5 slides total
+    * Slide 1: Title slide
+    * Slide 2: Concise summary slide - what you did, what was your main finding/output?
+    * Slide 3 & 4: Supporting slides with more details on your main finding/output
+    * Slide 5: Wrap-up, conclusions, acknowldegements (be sure to acknowledge the data source)
+* Slides can be prepared using any programs, but must be submitted in PDF format.
+* Presentations will be submitted through Slack -- more information will be provided during the event.
+* Presentations are due by 1PM on Sunday.
+* Each team will choose 1 person to present during the Presentation session on Sunday afternoon.
+* Presentations must be 5 minutes or less.  Presentations will be stopped after 5 minutes to keep on schedule.
+
 ## Resources
 
 * [OCRUG Hackathon Cheat Sheets](https://github.com/ocrug/hackathon-2021-04/blob/master/cheatsheet/cheatsheet.pdf)

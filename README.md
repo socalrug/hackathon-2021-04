@@ -151,6 +151,12 @@ Two short tutorials will be given on Saturday morning covering essential data an
 
 On Saturday evening, we will have an hour long data challenge event, to take a break from the main hackathon work.  This will be an opportunity to interact with other participants outside of your team, practice your data hacking skills on a new data set, and win prizes.
 
+**Data Set**
+
+[Palmer Penguins](https://github.com/allisonhorst/palmerpenguins) data set prepared by Allison Horst.
+
+
+
 
 ## Presentation Rules
 

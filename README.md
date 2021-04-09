@@ -155,6 +155,7 @@ On Saturday evening, we will have an hour long data challenge event, to take a b
 
 [Palmer Penguins](https://github.com/allisonhorst/palmerpenguins) data set prepared by Allison Horst.
 
+[Link to data (.csv)](https://github.com/ocrug/hackathon-2021-04/blob/main/data/penguins.csv)
 
 
 

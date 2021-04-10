@@ -139,6 +139,13 @@ Below is a list of the awards and prizes:
 * Best Presentation (Amazon Gift Card)
 
 
+## Hackathon Data Set
+
+Information on the data set used for the hackathon can be found here: 
+
+* [Data Set Information](https://github.com/ocrug/hackathon-2021-04/blob/main/hackathon_dataset.md)
+
+
 ## Hackathon Introduction Slides
 
 Overview slides on the event can be found [here (PDF)](https://github.com/ocrug/hackathon-2021-04/blob/main/admin/intro_slides/hackathon_intro_slides.pdf)

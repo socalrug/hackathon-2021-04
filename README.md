@@ -48,7 +48,7 @@ This is a 100% Online/Virtual event, using Zoom and Slack. Event links will be p
 | 12:00 AM -  1:00 PM  | Break - Lunch                                          | On Your Own                |
 |  1:00 PM -  2:00 PM  | Introduction, Data Set Review, Teams Assemble          | Zoom Main Room             |
 |  2:00 PM -  7:00 PM  | Individual Teams Working Session                       | Zoom Breakout Rooms, Slack |
-|  7:00 PM -  8:00 PM  | Evening Data Challenge                                 | Zoom Main Room             |
+|  7:00 PM -  8:00 PM  | Evening Data Challenge                                 | Alternate Zoom Room        |
 |  8:00 PM - 10:00 PM  | Individual Teams Working Session                       | Zoom Breakout Rooms, Slack |
 
 ### Sunday

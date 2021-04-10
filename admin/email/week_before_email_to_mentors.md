@@ -16,9 +16,13 @@ OCRUG is dedicated to providing a harassment-free environment. Please read and a
 1. The schedule for your mentoring time slot is [here](https://github.com/ocrug/hackathon-2021-04/blob/main/admin/mentors.md).
 
 Here is the Zoom Information:
+
 Zoom Link: [here](https://oracle.zoom.us/j/97052375773?pwd=ZnZ5Q1Z4ZGlNVkljeS9mVmxXbmFKUT09)
+
 Meeting ID: 970 5237 5773
+
 Passcode: 50381480
+
 Looking forward to "seeing" everyone soon!
 
 John

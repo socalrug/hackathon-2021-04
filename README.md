@@ -139,6 +139,10 @@ Below is a list of the awards and prizes:
 * Best Presentation (Amazon Gift Card)
 
 
+## Hackathon Introduction Slides
+
+Overview slides on the event can be found [here (PDF)](https://github.com/ocrug/hackathon-2021-04/blob/main/admin/intro_slides/hackathon_intro_slides.pdf)
+
 ## Saturday Morning Tutorials
 
 Two short tutorials will be given on Saturday morning covering essential data analysis topics using R.  The tutorials as aimed at R users who have already have some familiarity with the language, but could also be a useful reference for R beginners or users of other programming languages.  

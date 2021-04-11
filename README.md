@@ -48,7 +48,7 @@ This is a 100% Online/Virtual event, using Zoom and Slack. Event links will be p
 | 12:00 AM -  1:00 PM  | Break - Lunch                                          | On Your Own                |
 |  1:00 PM -  2:00 PM  | Introduction, Data Set Review, Teams Assemble          | Zoom Main Room             |
 |  2:00 PM -  7:00 PM  | Individual Teams Working Session                       | Zoom Breakout Rooms, Slack |
-|  7:00 PM -  8:00 PM  | Evening Data Challenge                                 | Zoom Main Room             |
+|  7:00 PM -  8:00 PM  | Evening Data Challenge                                 | Alternate Zoom Room        |
 |  8:00 PM - 10:00 PM  | Individual Teams Working Session                       | Zoom Breakout Rooms, Slack |
 
 ### Sunday
@@ -139,6 +139,17 @@ Below is a list of the awards and prizes:
 * Best Presentation (Amazon Gift Card)
 
 
+## Hackathon Data Set
+
+Information on the data set used for the hackathon can be found here: 
+
+* [Data Set Information](https://github.com/ocrug/hackathon-2021-04/blob/main/hackathon_dataset.md)
+
+
+## Hackathon Introduction Slides
+
+Overview slides on the event can be found [here (PDF)](https://github.com/ocrug/hackathon-2021-04/blob/main/admin/intro_slides/hackathon_intro_slides.pdf)
+
 ## Saturday Morning Tutorials
 
 Two short tutorials will be given on Saturday morning covering essential data analysis topics using R.  The tutorials as aimed at R users who have already have some familiarity with the language, but could also be a useful reference for R beginners or users of other programming languages.  
@@ -157,7 +168,13 @@ On Saturday evening, we will have an hour long data challenge event, to take a b
 
 [Link to data (.csv)](https://github.com/ocrug/hackathon-2021-04/blob/main/data/penguins.csv)
 
+Answer Upload Link: [Dropbox](https://www.dropbox.com/request/RrRuH7T2p2AokiA8ViJM)
 
+Meeting URL:	[Zoom](https://oracle.zoom.us/j/99677040080?pwd=bm42UGxyN2tpT0VIRG1vZWc3VHdJQT09)
+
+Meeting ID:	996 7704 0080
+
+Passcode:	67333487
 
 ## Presentation Rules
 

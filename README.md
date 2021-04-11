@@ -189,7 +189,7 @@ Each team will prepare a short presentation and slide deck describing their work
     * Slide 3 & 4: Supporting slides with more details on your main finding/output
     * Slide 5: Wrap-up, conclusions, acknowldegements (be sure to acknowledge the data source)
 * Slides can be prepared using any programs, but must be submitted in PDF format.
-* Presentations will be submitted through Slack -- more information will be provided during the event.
+* Presentations will be submitted through Dropbox -- more information will be provided during the event.
 * Presentations are due by 1PM on Sunday.
 * Each team will choose 1 person to present during the Presentation session on Sunday afternoon.
 * Presentations must be 5 minutes or less.  Presentations will be stopped after 5 minutes to keep on schedule.

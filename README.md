@@ -166,7 +166,7 @@ On Saturday evening, we will have an hour long data challenge event, to take a b
 
 [Palmer Penguins](https://github.com/allisonhorst/palmerpenguins) data set prepared by Allison Horst.
 
-[Link to data (.csv)](https://github.com/ocrug/hackathon-2021-04/blob/main/data/penguins.csv)
+[Link to data (.csv)](https://raw.githubusercontent.com/ocrug/hackathon-2021-04/main/data/penguins.csv)
 
 Answer Upload Link: [Dropbox](https://www.dropbox.com/request/RrRuH7T2p2AokiA8ViJM)
 

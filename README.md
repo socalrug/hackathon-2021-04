@@ -162,6 +162,14 @@ Two short tutorials will be given on Saturday morning covering essential data an
 
 On Saturday evening, we will have an hour long data challenge event, to take a break from the main hackathon work.  This will be an opportunity to interact with other participants outside of your team, practice your data hacking skills on a new data set, and win prizes.
 
+Answer Upload Link: [Dropbox](https://www.dropbox.com/request/RrRuH7T2p2AokiA8ViJM)
+
+Meeting URL:	[Zoom](https://oracle.zoom.us/j/99677040080?pwd=bm42UGxyN2tpT0VIRG1vZWc3VHdJQT09)
+
+Meeting ID:	996 7704 0080
+
+Passcode:	67333487
+
 
 ## Presentation Rules
 

@@ -58,9 +58,9 @@ This is a 100% Online/Virtual event, using Zoom and Slack. Event links will be p
 |  8:00 AM -  1:00 PM  | Individual Teams Working Session | Zoom Breakout Rooms, Slack  |
 |  1:00 PM             | Presentations Due                |                             |
 |  1:00 PM -  2:00 PM  | Break - Lunch                    | On Your Own                 |
-|  2:00 PM -  3:30 PM  | Team Presentations               | Zoom Presentation Rooms     |
-|  3:30 PM -  4:00 PM  | Award Voting, Break              | On Your Own                 |
-|  4:00 PM -  4:30 PM  | Award Presentation & Wrap-up     | Zoom Main Room              |
+|  2:00 PM -  3:00 PM  | Team Presentations               | Zoom Main Room.             |
+|  3:00 PM -  3:30 PM  | Award Voting, Break              | On Your Own                 |
+|  3:30 PM -  4:00 PM  | Award Presentation & Wrap-up     | Zoom Main Room              |
 
 
 ## Rules

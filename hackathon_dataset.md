@@ -24,4 +24,10 @@ There are two versions of the data set:
     * [Full Dataset README](https://files.grouplens.org/datasets/movielens/ml-latest-README.html)
 * Be sure to reference the data set in the last side of your presentation.
 
+## Data Set Usage
+
+The MovieLens data set has been approved for use for educational/non-commercial use.
+
+[Approved Usage Request](https://github.com/ocrug/hackathon-2021-04/blob/main/admin/MovieLens_dataset_usage_request.pdf)
+
 

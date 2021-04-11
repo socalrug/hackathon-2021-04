@@ -112,9 +112,6 @@ Each team will have a slack channel so that they can communicate and share files
 * 05_team-hackathon
 * 06_team-hackathon
 * 07_team-hackathon
-* 08_team-hackathon
-* 09_team-hackathon
-* 10_team-hackathon
 
 ## Twitter
 
